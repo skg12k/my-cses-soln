@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 const int MOD = 1e9 + 7;
-const int MAXN = 1e6;
+
 void solve()
 {
     int n, x;

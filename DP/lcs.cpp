@@ -1,15 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
-const int MOD = 1e9 + 7;
-#define dbgv(v)             \
-    cerr << #v << " = [ ";  \
-    for (auto &ele : v)     \
-        cerr << ele << " "; \
-    cerr << "]" << endl;
 
 // backtracking check
 
-const long long MAXN = 1e6;
 void solve()
 {
     int N, M;

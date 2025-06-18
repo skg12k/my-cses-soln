@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-const int MOD = 1e9 + 7;
-const long long MAXN = 1e6;
+
 void solve()
 {
     string S1, S2;
